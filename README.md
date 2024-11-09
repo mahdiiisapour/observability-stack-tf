@@ -1,2 +1,2 @@
-# observability-stack-tf
+### observability-stack-tf
 Provisioning Observability stack using Terraform 
